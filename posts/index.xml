@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on HedonHermDev</title>
+    <link>https://hedonhermdev.github.io/posts/</link>
+    <description>Recent content in Posts on HedonHermDev</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hedonhermdev.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://hedonhermdev.github.io/posts/post_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hedonhermdev.github.io/posts/post_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How To Deploy Your Django App Using Docker</title>
+      <link>https://hedonhermdev.github.io/posts/dango-on-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hedonhermdev.github.io/posts/dango-on-docker/</guid>
+      <description>Getting your Django app on the internet is - pardon my language - a pain in the ass.
+You need to daemonize your app with something like Supervisor, then you need to setup a production ready database, then you need to setup a web-server using the likes of Nginx or Apache. And when it&amp;rsquo;s all done, you need to setup files and directories to collect and maintain logs from your app.</description>
+    </item>
+    
+  </channel>
+</rss>
