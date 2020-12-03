@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://hedonhermdev.github.io/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hedonhermdev.github.io/about/</loc>
   </url>
   
