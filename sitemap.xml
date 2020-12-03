@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hedonhermdev.github.io/posts/post_2/</loc>
+    <loc>https://hedonhermdev.github.io/</loc>
+    <lastmod>2020-05-25T10:29:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hedonhermdev.github.io/posts/</loc>
+    <lastmod>2020-05-25T10:29:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hedonhermdev.github.io/posts/setting-up-vim/</loc>
+    <lastmod>2020-05-25T10:29:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hedonhermdev.github.io/posts/django-on-docker/</loc>
+    <lastmod>2020-04-30T10:29:26+00:00</lastmod>
   </url>
   
   <url>
@@ -16,18 +32,6 @@
   
   <url>
     <loc>https://hedonhermdev.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hedonhermdev.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hedonhermdev.github.io/posts/dango-on-docker/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hedonhermdev.github.io/posts/</loc>
   </url>
   
   <url>
