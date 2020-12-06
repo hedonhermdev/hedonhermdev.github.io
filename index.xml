@@ -26,15 +26,6 @@ You need to daemonize your app with something like Supervisor, then you need to 
     </item>
     
     <item>
-      <title></title>
-      <link>https://hedonhermdev.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hedonhermdev.github.io/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>About Me</title>
       <link>https://hedonhermdev.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -52,6 +43,17 @@ Work As for work experience, I am a Teaching Assistant at the Software Developme
       
       <guid>https://hedonhermdev.github.io/archive/</guid>
       <description>archive</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://hedonhermdev.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hedonhermdev.github.io/projects/</guid>
+      <description>This is a mostly incomplete list of a few interesting projects I have worked on or I am currently working on.
+Pathways Pathways aims to be a curated collection of &amp;ldquo;pathways&amp;rdquo; for learning any skill. Every pathway is a self sufficient guide to gain proficiency in any skill or topic.
+The crux of Pathways is, well, pathways. A Pathway is an ordered collection of steps. A step in itself can be:</description>
     </item>
     
   </channel>
