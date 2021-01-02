@@ -5,7 +5,17 @@
     <link>https://hedonhermdev.github.io/posts/</link>
     <description>Recent content in Posts on HedonHermDev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 May 2020 10:29:26 +0000</lastBuildDate><atom:link href="https://hedonhermdev.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2021 10:29:26 +0000</lastBuildDate><atom:link href="https://hedonhermdev.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pathways: The What, the Why and the How</title>
+      <link>https://hedonhermdev.github.io/posts/pathways-what-why-how/</link>
+      <pubDate>Sat, 02 Jan 2021 10:29:26 +0000</pubDate>
+      
+      <guid>https://hedonhermdev.github.io/posts/pathways-what-why-how/</guid>
+      <description>Pathways: The What, the Why and the How Pathways aims to be a curated collection of &amp;ldquo;pathways&amp;rdquo; for learning any skill. Every pathway is a self sufficient guide to gain proficiency in any skill or topic.
+The Why The internet has an abundancy of resources of varying qualities. However, there is no guide to deciding which resource is the best for someone at a particular level. These resources are often scattered across courses, blogs, GitHub repositories, etc.</description>
+    </item>
+    
     <item>
       <title>Setting Up a Vim You Will Love To Use</title>
       <link>https://hedonhermdev.github.io/posts/setting-up-vim/</link>
