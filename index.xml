@@ -41,10 +41,9 @@ You need to daemonize your app with something like Supervisor, then you need to 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hedonhermdev.github.io/about/</guid>
-      <description>[[archive]]
-Hello there! I am Tirth Jain, a computer science undergrad currently studying at BITS Pilani. I&amp;rsquo;m a software developer with an inclination towards server-sided stuff. I am also a Vim enthusiast and a budding Rustacean.
+      <description>Hello there! I am Tirth Jain, a computer science undergrad currently studying at BITS Pilani. I&amp;rsquo;m a software developer with an inclination towards server-sided stuff. I am also a Vim enthusiast and a budding Rustacean.
 You can take a look at my resume here .
-Work As for work experience, I am a Teaching Assistant at the Software Development and Education Training Lab at BITS Pilani. As part of that role, I am developing a CMS for the main university website to be shared across all four campuses of BITS Pilani.</description>
+Work I am currently an intern in the Datamove team at INRIA tinkering with rayon and scheduling algorithms. I am a Teaching Assistant at the Software Development and Education Training Lab at BITS Pilani.</description>
     </item>
     
     <item>
@@ -64,16 +63,6 @@ Work As for work experience, I am a Teaching Assistant at the Software Developme
       <guid>https://hedonhermdev.github.io/projects/</guid>
       <description>This is a mostly incomplete list of a few interesting projects I have worked on or I am currently working on.
 Fire (Ocean) Fire is a developer friendly CMS you can use with almost any static website. You can define your own templates and the data format in JSON and use it to integrate your static website with Fire. Fire includes a fully functional API for uploading and managing files and a flexible permission system defined using roles.</description>
-    </item>
-    
-    <item>
-      <title>Talks</title>
-      <link>https://hedonhermdev.github.io/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hedonhermdev.github.io/talks/</guid>
-      <description>As part of the BITS Pilani chapter of ACM, I have given a few informal &amp;ldquo;talks&amp;rdquo; for students in college. These are mostly on technical topics that I have delved into.
-![] Tech For Entrepreneurs and Dummies: DevOps and Cloud Infrastructure.</description>
     </item>
     
   </channel>
